@@ -23,7 +23,7 @@
  * **Branch:** setup  * **Merged into:** main
  * **Commits:**
   * [ commit 1] - Instalar dependências
-  * commit 2] - Configurar o servidor de desenvolvimento
+  * [commit 2] - Configurar o servidor de desenvolvimento
 
 ## Histórico de Merges
 
