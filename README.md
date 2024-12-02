@@ -29,6 +29,6 @@
 
 | Branch | Data | Descrição |
 |---|---|---|
-| login | 2023-11-20 | Merge da funcionalidade de login |
-| home | 2023-11-22 | Merge da página inicial |
+| login | 2024-12-02 | Merge da funcionalidade de login |
+| home | 2024-12-02 | Merge da página inicial |
 
